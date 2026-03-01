@@ -21,7 +21,7 @@
 		"cost": 1,
 		"hurryCostModifier": 1,
 		"maintenance": 1,
-		"uniques": ["Hidden ]
+		"uniques": ["Hidden"]
 	},
 	{
 		"name": "Increase research speed",
