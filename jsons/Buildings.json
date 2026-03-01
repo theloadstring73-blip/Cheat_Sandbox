@@ -9,7 +9,7 @@
 	{
 		"name": "Cultural increase",
 		"gold": 1,
-		"culture": 50,
+		"culture": 500,
 		"cost": 1,
 		"hurryCostModifier": 1,
 		"maintenance": 1
@@ -26,7 +26,7 @@
 	{
 		"name": "Increase research speed",
 		"gold": 1,
-		"science": 30,
+		"science": 3000,
 		"cost": 1,
 		"hurryCostModifier": 1,
 		"maintenance": 1
@@ -34,7 +34,7 @@
 	{
 		"name": "Food increase",
 		"gold": 1,
-		"food": 50,
+		"food": 500,
 		"cost": 1,
 		"hurryCostModifier": 1,
 		"maintenance": 1
@@ -59,7 +59,7 @@
 	{
 		"name": "Increased city production",
 		"gold": 1,
-		"production": 100,
+		"production": 1200
 		"cost": 1,
 		"hurryCostModifier": 1,
 		"maintenance": 1
@@ -67,7 +67,7 @@
 	{
 		"name": "Scientist point",
 		"gold": 1,
-		"greatPersonPoints": {"Great Scientist": 30},
+		"greatPersonPoints": {"Great Scientist": 300},
 		"cost": 1,
 		"hurryCostModifier": 1,
 		"maintenance": 1,
@@ -75,7 +75,7 @@
 	{
 		"name": "Engineer point",
 		"gold": 1,
-		"greatPersonPoints": {"Great Engineer": 30},
+		"greatPersonPoints": {"Great Engineer": 300},
 		"cost": 1,
 		"hurryCostModifier": 1,
 		"maintenance": 1,
@@ -83,7 +83,7 @@
 	{
 		"name": "Artist point",
 		"gold": 1,
-		"greatPersonPoints": {"Great Artist": 30},
+		"greatPersonPoints": {"Great Artist": 300},
 		"cost": 1,
 		"hurryCostModifier": 1,
 		"maintenance": 1,
@@ -91,10 +91,10 @@
 	{
 		"name": "Merchant point",
 		"gold": 1,
-		"greatPersonPoints": {"Great Merchant": 30},
+		"greatPersonPoints": {"Great Merchant": 300},
 		"cost": 1,
 		"hurryCostModifier": 1,
 		"maintenance": 1,
 	}
-]
+]​
 
